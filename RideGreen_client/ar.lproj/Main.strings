@@ -1,0 +1,180 @@
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "0C6-VF-5AW"; */
+"0C6-VF-5AW.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Select"; ObjectID = "11D-vm-qBB"; */
+"11D-vm-qBB.normalTitle" = "Select";
+
+/* Class = "UIButton"; normalTitle = "Use My Location"; ObjectID = "1Cz-eC-X1N"; */
+"1Cz-eC-X1N.normalTitle" = "Use My Location";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "2iE-ZY-0H7"; */
+"2iE-ZY-0H7.placeholder" = "Last Name";
+
+/* Class = "UITextField"; placeholder = "Rate per hour"; ObjectID = "2ij-RY-pJJ"; */
+"2ij-RY-pJJ.placeholder" = "Rate per hour";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "37G-Se-HLn"; */
+"37G-Se-HLn.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "(Optional)"; ObjectID = "3n1-Ge-QcS"; */
+"3n1-Ge-QcS.text" = "(Optional)";
+
+/* Class = "UITextField"; placeholder = "+1"; ObjectID = "40U-lj-0cU"; */
+"40U-lj-0cU.placeholder" = "+1";
+
+/* Class = "UILabel"; text = "Fare  $30.00 has been Paid successfully"; ObjectID = "4CC-U4-ugH"; */
+"4CC-U4-ugH.text" = "Fare  $30.00 has been Paid successfully";
+
+/* Class = "UILabel"; text = "Total Hours:"; ObjectID = "5lL-iz-a0M"; */
+"5lL-iz-a0M.text" = "Total Hours:";
+
+/* Class = "UIButton"; normalTitle = "Available Guides"; ObjectID = "6SZ-wA-Bdp"; */
+"6SZ-wA-Bdp.normalTitle" = "Available Guides";
+
+/* Class = "UIButton"; normalTitle = "Delete"; ObjectID = "6zF-GH-4Os"; */
+"6zF-GH-4Os.normalTitle" = "Delete";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "AzD-VD-AXP"; */
+"AzD-VD-AXP.placeholder" = "Email Address";
+
+/* Class = "UIButton"; normalTitle = "Use Current Location"; ObjectID = "CKH-Bf-8rB"; */
+"CKH-Bf-8rB.normalTitle" = "Use Current Location";
+
+/* Class = "UILabel"; text = "Sye zia ur Rehman"; ObjectID = "DpJ-4f-YbI"; */
+"DpJ-4f-YbI.text" = "Sye zia ur Rehman";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "GH5-lN-JaV"; */
+"GH5-lN-JaV.normalTitle" = "Done";
+
+/* Class = "UITextField"; placeholder = "Parking Name"; ObjectID = "Hla-0J-qvE"; */
+"Hla-0J-qvE.placeholder" = "Parking Name";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "I4X-zs-ddE"; */
+"I4X-zs-ddE.text" = "0.0";
+
+/* Class = "UILabel"; text = "$100.00"; ObjectID = "J2g-Zu-s7K"; */
+"J2g-Zu-s7K.text" = "$100.00";
+
+/* Class = "UINavigationItem"; title = "Payment"; ObjectID = "Jaq-P9-uuD"; */
+"Jaq-P9-uuD.title" = "Payment";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "NvY-xz-fju"; */
+"NvY-xz-fju.placeholder" = "First Name";
+
+/* Class = "UILabel"; text = "Exp. Date"; ObjectID = "Oqf-h6-Mdu"; */
+"Oqf-h6-Mdu.text" = "Exp. Date";
+
+/* Class = "UILabel"; text = "2015-09-06 04:30 am  (Expected  duration 12 hrs)"; ObjectID = "Pwi-4j-oIG"; */
+"Pwi-4j-oIG.text" = "2015-09-06 04:30 am  (Expected  duration 12 hrs)";
+
+/* Class = "UITextField"; placeholder = "Meetup Location"; ObjectID = "Qbl-6l-dCb"; */
+"Qbl-6l-dCb.placeholder" = "Meetup Location";
+
+/* Class = "UITextField"; placeholder = "End Time"; ObjectID = "QcA-ic-c9u"; */
+"QcA-ic-c9u.placeholder" = "End Time";
+
+/* Class = "UIButton"; normalTitle = "Select From Map"; ObjectID = "SWe-mW-9wQ"; */
+"SWe-mW-9wQ.normalTitle" = "Select From Map";
+
+/* Class = "UITextField"; placeholder = "Required"; ObjectID = "UTh-Wc-tEj"; */
+"UTh-Wc-tEj.placeholder" = "Required";
+
+/* Class = "UILabel"; text = "Islamabad"; ObjectID = "VEr-Ak-H9Q"; */
+"VEr-Ak-H9Q.text" = "Islamabad";
+
+/* Class = "UILabel"; text = "Reached at meetup location, Tab"; ObjectID = "XN5-g8-cCX"; */
+"XN5-g8-cCX.text" = "Reached at meetup location, Tab";
+
+/* Class = "UITextField"; placeholder = "Tour date"; ObjectID = "ZMv-K9-nFe"; */
+"ZMv-K9-nFe.placeholder" = "Tour date";
+
+/* Class = "UILabel"; text = "Paking name"; ObjectID = "Zkz-75-cER"; */
+"Zkz-75-cER.text" = "Paking name";
+
+/* Class = "UIButton"; normalTitle = "From map"; ObjectID = "Zsj-54-jRD"; */
+"Zsj-54-jRD.normalTitle" = "From map";
+
+/* Class = "UITextField"; placeholder = "Number of hours"; ObjectID = "aLY-TW-z5j"; */
+"aLY-TW-z5j.placeholder" = "Number of hours";
+
+/* Class = "UILabel"; text = "Required"; ObjectID = "ah0-PJ-IY1"; */
+"ah0-PJ-IY1.text" = "Required";
+
+/* Class = "UITextField"; placeholder = "Location"; ObjectID = "b5H-K1-omk"; */
+"b5H-K1-omk.placeholder" = "Location";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "bDS-4P-A0S"; */
+"bDS-4P-A0S.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "Start Time"; ObjectID = "c4U-5D-SHM"; */
+"c4U-5D-SHM.placeholder" = "Start Time";
+
+/* Class = "UISearchBar"; placeholder = "Search"; ObjectID = "frZ-Hm-suz"; */
+"frZ-Hm-suz.placeholder" = "Search";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "grC-Ao-7ax"; */
+"grC-Ao-7ax.normalTitle" = "Next";
+
+/* Class = "UITextField"; placeholder = "Meetup time"; ObjectID = "hO0-pV-bzS"; */
+"hO0-pV-bzS.placeholder" = "Meetup time";
+
+/* Class = "UILabel"; text = "Per/h $1000.0"; ObjectID = "i3l-Zg-ObW"; */
+"i3l-Zg-ObW.text" = "Per/h $1000.0";
+
+/* Class = "UITextField"; placeholder = "Tour date"; ObjectID = "jkg-GP-7WG"; */
+"jkg-GP-7WG.placeholder" = "Tour date";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "kX9-mr-Aw5"; */
+"kX9-mr-Aw5.normalTitle" = "Register";
+
+/* Class = "UILabel"; text = "9.0 km"; ObjectID = "l76-Ri-bwu"; */
+"l76-Ri-bwu.text" = "9.0 km";
+
+/* Class = "UILabel"; text = "Parking Location Parking Location Parking Location Parking Location Parking Location"; ObjectID = "nWZ-W5-bJx"; */
+"nWZ-W5-bJx.text" = "Parking Location Parking Location Parking Location Parking Location Parking Location";
+
+/* Class = "UIButton"; normalTitle = "At meetup location"; ObjectID = "nZt-nh-gRo"; */
+"nZt-nh-gRo.normalTitle" = "At meetup location";
+
+/* Class = "UILabel"; text = "Sye zia ur Rehman"; ObjectID = "q7x-Hx-vEL"; */
+"q7x-Hx-vEL.text" = "Sye zia ur Rehman";
+
+/* Class = "UILabel"; text = "$15.00/h"; ObjectID = "qtt-pg-Wy6"; */
+"qtt-pg-Wy6.text" = "$15.00/h";
+
+/* Class = "UILabel"; text = "zia"; ObjectID = "rYr-tF-z6q"; */
+"rYr-tF-z6q.text" = "zia";
+
+/* Class = "UILabel"; text = "We accept Visa, Mastercard, Amex and Discover."; ObjectID = "sb4-Ll-9Lv"; */
+"sb4-Ll-9Lv.text" = "We accept Visa, Mastercard, Amex and Discover.";
+
+/* Class = "UIButton"; normalTitle = "Reservations"; ObjectID = "slz-Jt-2wt"; */
+"slz-Jt-2wt.normalTitle" = "Reservations";
+
+/* Class = "UIButton"; normalTitle = "Go meetup location"; ObjectID = "tKP-aX-lqB"; */
+"tKP-aX-lqB.normalTitle" = "Go meetup location";
+
+/* Class = "UITextField"; placeholder = "Mobile"; ObjectID = "w6N-Mh-eGF"; */
+"w6N-Mh-eGF.placeholder" = "Mobile";
+
+/* Class = "UILabel"; text = "Islamabad"; ObjectID = "wfh-do-7rM"; */
+"wfh-do-7rM.text" = "Islamabad";
+
+/* Class = "UIButton"; normalTitle = "Check fare"; ObjectID = "xMU-mx-ujd"; */
+"xMU-mx-ujd.normalTitle" = "Check fare";
+
+/* Class = "UILabel"; text = "Total Bill:"; ObjectID = "xVg-Ht-Ij1"; */
+"xVg-Ht-Ij1.text" = "Total Bill:";
+
+/* Class = "UILabel"; text = "Driver Location"; ObjectID = "yGi-4E-HZY"; */
+"yGi-4E-HZY.text" = "Driver Location";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "yX6-Qd-vD4"; */
+"yX6-Qd-vD4.normalTitle" = "Add";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "yuy-as-iyl"; */
+"yuy-as-iyl.placeholder" = "Confirm Password";
+
+/* Class = "UILabel"; text = "Card Number"; ObjectID = "zyP-tl-Toi"; */
+"zyP-tl-Toi.text" = "Card Number";

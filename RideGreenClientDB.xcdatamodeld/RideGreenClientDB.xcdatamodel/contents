@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="10171" systemVersion="15C50" minimumToolsVersion="Xcode 7.0">
+    <entity name="CMyParking" syncable="YES">
+        <attribute name="addedFrom" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="clientId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="coordinate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="createdDate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="editDate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="idField" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="is_Deleted" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isAvailable" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="location" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="pricePerHour" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="status" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="usedDays" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="CMyRental" syncable="YES">
+        <attribute name="beds" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="checkinDate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="checkoutDate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cityId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="clientAddress" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="createdon" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="idField" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isCheckIn" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isCheckOut" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="noOfDays" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="paymentOption" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="paymentStatus" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="ratePerMonth" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rentedDate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rentedStatus" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="renterId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="requestedDate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="roomAddress" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="roomImage" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rooms" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="roomType" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="stateId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="status" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="totalPayment" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="userId" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="CMyRented" syncable="YES">
+        <attribute name="adminphone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="beds" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="bookingId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cancelRoom" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="checkinDate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="checkoutDate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cityId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="clientAddress" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="clientrating" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="createdon" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="customerid" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="firstName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="idField" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isCheckIn" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isCheckOut" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lastName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="mobile" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="noOfDays" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="paymentOption" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="paymentStatus" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="photo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="ratePerMonth" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rentedDate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rentedStatus" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="renterId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="requestedDate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="roomAddress" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="roomImage" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="roomrating" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rooms" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="roomType" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="stateId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="status" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="taxRate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="tempCheckinDate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="totalPayment" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="userId" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="CMyRequested" syncable="YES">
+        <attribute name="adminphone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="beds" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="bookingId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cancelRoom" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="checkinDate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="checkoutDate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cityId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="clientAddress" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="clientrating" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="createdon" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="customerid" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="firstName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="idField" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isCheckIn" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isCheckOut" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lastName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="mobile" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="noOfDays" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="paymentOption" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="paymentStatus" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="photo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="ratePerMonth" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="refundpercentage" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rentedDate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rentedStatus" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="renterId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="requestedDate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="roomAddress" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="roomImage" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="roomrating" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rooms" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="roomType" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="stateId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="status" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="taxRate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="tempCheckinDate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="totalPayment" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="userId" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="CMyTours" syncable="YES">
+        <attribute name="adminphone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="canceltour" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="clientId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="clientStatus" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="customerId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="driverId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="drivernam" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="driverphon" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="driverStatus" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="firstName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lastName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="meetupAddress" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="meetupLocation" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="meetupTime" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="mobile" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="photo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="refundpercentage" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="status" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="tourDate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="tourHourExpected" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="tourId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="tourprice" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="CProfile" syncable="YES">
+        <attribute name="cityId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="country" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="creditcardNo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="customerid" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="discount" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="driverRating" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="email" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="enable" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="firstName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="fleetId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="idField" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="inOut" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isGuide" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lastName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="mobile" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="password" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="photo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rideCount" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="status" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="token" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="userName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="userType" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="CMyParking" positionX="0" positionY="0" width="128" height="255"/>
+        <element name="CMyRental" positionX="0" positionY="99" width="128" height="450"/>
+        <element name="CMyRented" positionX="18" positionY="162" width="128" height="630"/>
+        <element name="CMyRequested" positionX="27" positionY="171" width="128" height="645"/>
+        <element name="CMyTours" positionX="9" positionY="162" width="128" height="375"/>
+        <element name="CProfile" positionX="9" positionY="153" width="128" height="375"/>
+    </elements>
+</model>
